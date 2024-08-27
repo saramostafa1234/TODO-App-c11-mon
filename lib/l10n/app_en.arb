@@ -1,0 +1,13 @@
+{
+  "toDoList": "To Do List",
+  "settings": "Settings",
+  "language": "Language",
+  "theme_mode": "Theme Mode",
+  "login": "Login",
+  "welcomeBack": "Welcome back!",
+  "email": "E-mail",
+  "password": "PassWord",
+  "forgetPassword": "ForgetPassWord",
+  "orCreateMyAccount": "Or Create My Account",
+  "tasks": "Tasks"
+}

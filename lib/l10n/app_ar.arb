@@ -1,0 +1,15 @@
+{
+  "toDoList":"قائمة المهام",
+ "settings":"الأعدادت",
+"language":"اللغه",
+"theme_mode":"النمط",
+" login":"تسجيل دخول",
+"welcomeBack!":"مرحبا بعودتك",
+"E-mail":"الأآيميل",
+ "PassWord":"كلمة السر",
+ "ForgetPassWord":"هل نسيت كلمة السر",
+ "Or Create My Account":"انشاء حساب",
+ "Tasks":"المهام",
+ "Dark":"داكن",
+ "light":"فاتح"
+ }
